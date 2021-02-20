@@ -1,4 +1,4 @@
-## The Well-Grounded Rubyist - Exercises
+## The Well-Grounded Rubyist - Examples
 
 ### Chapter 14
 #### Date server
